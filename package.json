@@ -1,7 +1,7 @@
 {
   "name": "n1-markdown",
   "description": "Markdown support in Nylas N1",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "main": "./lib/main",
   "repository": "evenh/n1-markdown",
   "homepage": "https://github.com/evenh/n1-markdown",
